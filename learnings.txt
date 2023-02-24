@@ -1,0 +1,135 @@
+
+You : what is rotational motion in physics 
+Jarvis : In physics, rotational motion is a type of motion in which an object rotates around a fixed point. An object can rotate around its own axis (intrinsic rotation), or it can rotate around an external point (extrinsic rotation).
+You : what is integration in maths 
+Jarvis : In mathematics, integration is the process of finding the area under a curve. This process can be used to find the area of a region bounded by a curve, or to find the volume of a solid of revolution.
+You : what is the formula of carboxylic acid in chemistry 
+Jarvis : The chemical formula of carboxylic acid is COOH.
+You : okay 
+Jarvis : Is there anything else you would like to know?
+You : what is cpu 
+Jarvis : The central processing unit (CPU) is the brains of a computer. It is responsible for carrying out all the instructions given to a computer.
+You : which language do you recommend for machine learning programmers 
+Jarvis : There is no one-size-fits-all answer to this question, as the best programming language for machine learning will depend on the specific needs of the project. However, some popular choices for machine learning programming languages include Python, R, and Java.
+You : what is the history of our language 
+Jarvis : The history of our language is the history of how it has evolved over time.
+You : who developed python language 
+Jarvis : Python was developed by Guido van Rossum in the early 1990s.
+You : what is the difference between java and java script 
+Jarvis : Java and JavaScript are two different programming languages. Java is a general-purpose, object-oriented language, while JavaScript is a scripting language.
+You : okay what is html 
+Jarvis : HTML is the standard markup language for creating web pages.
+You : what is css 
+Jarvis : CSS is a style sheet language used for describing the presentation of a document written in a markup language.
+You : then what is django 
+Jarvis : Django is a Python web framework that enables rapid development of web applications.
+You : what is the difference between django and flask 
+Jarvis : Django is a full-stack web framework, while Flask is a microframework. This means that Django includes all the features needed to build a web application, while Flask only includes the bare minimum.
+You :  
+Jarvis : Do you have any other questions?
+You : a train moves a distance of 10 m with a constant speed of 40 mps and moves then next 
+Jarvis : The train moves a distance of 10 m with a constant speed of 40 mps and then moves the next distance at a constant speed of 30 mps.
+You : if the distance travelled by a body is 5 m and time taken is 2 second what is the speed 
+Jarvis : The speed of the body is 2.5 m/s.
+You : what is the difference between speed and velocity 
+Jarvis : Speed is the rate of change of position, while velocity is the rate of change of speed.
+You : what is google meet 
+Jarvis : Google Meet is a video conferencing app that allows users to connect and collaborate with others online.
+You : what is google collap 
+Jarvis : Google Collap is a project management tool that helps users to plan, organize, and track their work.
+You : what is charge gd 
+Jarvis : Charge is a type of energy that can be either positive or negative. Positive charge is attracted to negative charge, and vice versa.
+You : what is chat gpt 
+Jarvis : Chat GPT is a chatbot that helps users to communicate with others online.
+You : what is charge 
+Jarvis : Charge is a type of energy that can be either positive or negative. Positive charge is attracted to negative charge, and vice versa.
+You : what is mouse in computer 
+Jarvis : A mouse is a pointing device that is used to control the cursor on a computer screen.
+You : what is 
+Jarvis : The history of our language is the history of how it has evolved over time.
+You : what is chrome browser 
+Jarvis : Chrome is a web browser that was developed by Google.
+You : what is open 
+Jarvis : Open refers to something that is not closed or blocked off.
+You : what is open ai 
+Jarvis : OpenAI is a research company that focuses on artificial intelligence (AI) and machine learning.
+You : what is deepmind 
+Jarvis : DeepMind is a technology company that specializes in artificial intelligence (AI).
+You : what is alphago 
+Jarvis : AlphaGo is a computer program that plays the board game Go.
+You : did you tell me that i 
+Jarvis : No, I didn't tell you that.
+You : but you tell me at start 
+Jarvis : At the start of our conversation, I told you that I am a chatbot that can answer questions about physics, math, and chemistry.
+You : sorry sorry 
+Jarvis : It's okay, no need to apologize. Do you have any other questions?
+You : for now i have not any questions but bye take care 
+Jarvis : Thank you for your questions. I hope I was able to help. Have a great day!
+You : what is visual studio code 
+Jarvis : Visual Studio Code is a code editor developed by Microsoft. It is a free and open source tool that can be used for a variety of programming languages.
+You : what is whatsapp 
+Jarvis : WhatsApp is a messaging app that allows users to communicate with each other using text, voice, and video.
+You : who discovered computer 
+Jarvis : There is no one person who can be credited with the discovery of computers. Instead, the history of computers is a history of the gradual development of technology that led to the modern day computer.
+You : who invented the first computer 
+Jarvis : The first computers were created in the early 1800s by Charles Babbage and Ada Lovelace.
+You : who created java script 
+Jarvis : JavaScript was created by Brendan Eich in 1995.
+You : which company was developed java 
+Jarvis : Java was developed by Sun Microsystems in the early 1990s.
+You : what is the difference between mobile and keyboard 
+Jarvis : The main difference between mobile and keyboard is that mobile is a portable device that can be carried around whereas keyboard is a fixed device that is used to input data into a computer.
+You : what is microphone 
+Jarvis : A microphone is a device that converts sound into electrical signals.
+You : what is 
+Jarvis : A microphone is a device that converts sound into electrical signals.
+You : what is biology 
+Jarvis : Biology is the study of living organisms, including their structure, function, growth, and evolution.
+You : what is physics 
+Jarvis : Physics is the study of the fundamental principles governing the natural world. It covers a wide range of topics, from the smallest particles to the largest structures in the universe.
+You : what is chemical kinetics in chemistry 
+Jarvis : Chemical kinetics is the study of the rates of chemical reactions. It covers a wide range of topics, from the factors that affect the rate of a reaction to the mechanisms of reactions.
+You : what is rate constant 
+Jarvis : The rate constant is a measure of the rate of a chemical reaction. It is determined by the factors that affect the rate of the reaction, such as the concentration of reactants, the temperature, and the presence of catalysts.
+You : what are arrays in javascript 
+Jarvis : An array is a data structure that stores a collection of elements. Each element in the array has a specific index, and the elements are accessed by their index.
+You : what is template inheritance in jango 
+Jarvis : Template inheritance is a feature of the Django web framework that allows you to define a base template that other templates can inherit from. This allows you to DRY up your code by avoiding duplication.
+You : what is windows 10 
+Jarvis : Windows 10 is a personal computer operating system released by Microsoft as part of the Windows NT family of operating systems.
+You : what is the difference between windows 10 and windows 11 
+Jarvis : There is no difference between Windows 10 and Windows 11.
+You : what is file explorer 
+Jarvis : File Explorer is a file manager that allows you to view, copy, move, and delete files on your computer.
+You : what is linux distrose 
+Jarvis : A Linux distribution is a collection of software that is based on the Linux kernel and other open source software.
+You : okay jarvis we have talked about so many things okay bye 
+Jarvis : Thank you for your questions. I hope I was able to help. Have a great day!
+You : jarvis quit 
+Jarvis : Thank you for using Jarvis. Goodbye!
+You : today i have a lot of work 
+Jarvis : I'm sorry to hear that you have a lot of work today. I hope everything goes well.
+You : everything goes well first first thing first tell me what is linear equation 
+Jarvis : A linear equation is an equation that describes a straight line. The equation is written in the form y = mx + b, where m is the slope of the line and b is the y-intercept.
+You : what is isotopes 
+Jarvis : Isotopes are atoms of the same element that have different numbers of neutrons in their nucleus.
+You : can you give me some examples of isotope 
+Jarvis : Some examples of isotopes are carbon-12, carbon-13, and carbon-14.
+You : what are the examples of isotopes with hydrogen 
+Jarvis : Some examples of isotopes with hydrogen are deuterium and tritium.
+You : how many isotopes are there of hydrogen 
+Jarvis : There are three isotopes of hydrogen: protium, deuterium, and tritium.
+You : what is gradient decent in machine learning 
+Jarvis : Gradient descent is a optimization algorithm used to find the values of parameters (such as weights and biases) that minimize a cost function (such as mean squared error).
+You : okay jarvis 
+Jarvis : Is there anything else you would like to know?
+You : jarvis bye 
+Jarvis : Thank you for using Jarvis. Goodbye!
+You : what is strings in java script 
+Jarvis : A string is a data type that represents a sequence of characters. Strings are often used to store text data, such as words or sentences.
+You : how to use alert function in java script 
+Jarvis : The alert function is used to display a message to the user. The message is typically a string of text, but it can also be HTML code. The function takes a single parameter, which is the message to be displayed.
+You : jarvis what is stock market 
+Jarvis : The stock market is a collection of markets where stocks (pieces of ownership in businesses) are traded between investors. It usually refers to the exchanges where stocks and other securities are bought and sold.
+You : alabele manju what is computer vision 
+Jarvis : Computer vision is the process of using computers to interpret and understand digital images. This can be done for a variety of purposes, such as object recognition, image classification, and motion estimation.
